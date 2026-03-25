@@ -28,7 +28,7 @@ The board is equipped as a self-contained IMU and environmental station[cite: 32
 ## 📂 Documentation
 Technical references used in this repository:
 * [Board Introduction PDF](./Docs/stm32l4s5vi_intro.pdf)
-* [Full Hardware Specifications PDF](./Docs/stm32l4s5vi.pdf)
+* [Full Hardware Specifications PDF](Project1_Understanding_STM32Boards/stm32l4s5vi.pdf)
 
 ---
 **Author:** Dhiraj  
