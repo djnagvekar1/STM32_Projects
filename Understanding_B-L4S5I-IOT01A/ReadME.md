@@ -28,5 +28,8 @@ The board features a full suite of MEMS sensors[cite: 31]:
 * **Arduino™ Uno V3** and **Pmod** connectors for easy hardware expansion[cite: 51].
 * **ST-LINK/V2-1** on-board debugger for drag-and-drop programming[cite: 71, 75, 68].
 
+## Helpful Links 
+* https://docs.zephyrproject.org/latest/boards/st/b_l4s5i_iot01a/doc/index.html
+
 ---
 *Maintained by Dhiraj 
